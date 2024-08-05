@@ -19,3 +19,8 @@ background-repeat: no-repeat;
 .container{
   height: 100vh;
 }
+
+.container_botao{
+    background-color: var(--botao-azul);
+    border-radius: 10px;
+}
