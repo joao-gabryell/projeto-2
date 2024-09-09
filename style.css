@@ -37,7 +37,7 @@ body {
 .container__botao {
   background-color: var(--botao-azul);
   border-radius: 5px;#cantos arrendondados
-  padding: 1em;#espaçamento interno
+  padding: 1em;/*#espaçamento interno*/
   color: var(--branco-principal);#cor de fonte
   display: block;#como o elemento vai ser disposto
   text-decoration: none;#reseta decoração do textos
